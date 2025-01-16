@@ -104,7 +104,7 @@ const Navbar = () => {
           Free shipping and returns
         </p>
         <p className="text-white font-inter text-base font-medium ">
-          Diffrent payment methods
+          Different payment methods
         </p>
       </div>
     </>

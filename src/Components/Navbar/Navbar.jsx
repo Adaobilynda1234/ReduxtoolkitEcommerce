@@ -101,7 +101,7 @@ const Navbar = () => {
       <div className="bg-black p-4 w-full flex items-center justify-center mx-auto">
         <p className="text-white font-inter text-base font-medium ">50& OFF</p>
         <p className="text-white font-inter text-base font-medium mx-96">
-          Free shipping and returns
+          Free shipping and return
         </p>
         <p className="text-white font-inter text-base font-medium ">
           Different payment methods
